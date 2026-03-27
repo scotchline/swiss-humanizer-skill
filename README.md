@@ -118,4 +118,4 @@ MIT — free to use, share, and adapt.
 
 ## Author
 
-Created by **Daniel Stump** —  [Studio Quark](https://www.quark.ch).
+Created by **Daniel Stump** & AI — [Studio Quark](https://www.quark.ch).
